@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<decorators defaultdir="/WEB-INF/decorators">
+ <decorator name="app-theme" page="app-theme.jsp">
+    <pattern>*.htm</pattern>
+ </decorator>  
+</decorators>
